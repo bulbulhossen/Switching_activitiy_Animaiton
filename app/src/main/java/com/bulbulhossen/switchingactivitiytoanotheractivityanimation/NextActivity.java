@@ -26,7 +26,7 @@ public class NextActivity extends Activity implements OnClickListener{
                 //push from top to bottom
 //                overridePendingTransition(R.anim.push_down_in, R.anim.push_down_out);
                 //slide from left to right
-               overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+            //   overridePendingTransition(R.anim.slide_in_left, R.anim.push_down_in);
                 break;
 
             // More buttons go here (if any) ...
